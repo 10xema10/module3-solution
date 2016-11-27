@@ -50,6 +50,7 @@ body{
 
 #main-content h2{
 	color:#185376;
+	margin-top:70px;
 }
 
 div.row{
@@ -71,6 +72,7 @@ h3{
 .box a{
 	color:#00FF80;
 }
+
 /*END MAIN CONTENT*/
 
 /********** Large devices only **********/
